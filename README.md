@@ -9,13 +9,16 @@ Pour tous ces sites, nous allons te demander de créer les modèles, mais pas de
 
 
 ```
- $ git clone git@github.com:mirindras/Petits-sites-de-BDD-relationnelles.git
+$ git clone git@github.com:mirindras/Petits-sites-de-BDD-relationnelles.git
 puis 
 $ bundle install
 et enfin 
 $ localhost:300 dans le navigateur
 ```
 
+
+
+# DEVELOPPEUR
 
 
 <table>
